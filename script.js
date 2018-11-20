@@ -29,7 +29,7 @@ while (!numeroTrovato && i < 84) {
     alert("game over. Punteggio :" + array_utente.length);
   }
   else {
-    prompt("ok, inseriscilo ancora");
+    prompt("ok, inserisci un altro numero");
   }
   i++;
 }
